@@ -55,7 +55,7 @@ members = [
 #
 # That said, if it turns out to hurt development more than expected, we could
 # move this to only toggle this in CI
-debug = 'line-tables-only'
+debug = "line-tables-only"
 
 [profile.dev.build-override]
 opt-level = 3
